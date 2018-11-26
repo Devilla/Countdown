@@ -6,5 +6,5 @@ React Native app for customised countowns.
 npm install
 
 ## To run app
-1.npm start or expo strart
+1.npm start or expo start
 2. Then open app in android/ios using expo client.
